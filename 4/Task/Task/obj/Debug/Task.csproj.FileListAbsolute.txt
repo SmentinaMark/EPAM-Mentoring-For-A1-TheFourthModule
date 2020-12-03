@@ -1,0 +1,10 @@
+C:\Users\marks\Desktop\EPAM_tasks\4\Task\Task\bin\Debug\Task.exe.config
+C:\Users\marks\Desktop\EPAM_tasks\4\Task\Task\bin\Debug\Task.exe
+C:\Users\marks\Desktop\EPAM_tasks\4\Task\Task\bin\Debug\Task.pdb
+C:\Users\marks\Desktop\EPAM_tasks\4\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\marks\Desktop\EPAM_tasks\4\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\marks\Desktop\EPAM_tasks\4\Task\Task\obj\Debug\SampleSupport.SampleForm.resources
+C:\Users\marks\Desktop\EPAM_tasks\4\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\marks\Desktop\EPAM_tasks\4\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\marks\Desktop\EPAM_tasks\4\Task\Task\obj\Debug\Task.exe
+C:\Users\marks\Desktop\EPAM_tasks\4\Task\Task\obj\Debug\Task.pdb
